@@ -9,6 +9,10 @@ const navigation = [
   {
     "name": "Responsive nav",
     "href": "/nav"
+  },
+  {
+    "name": "Responsive layout",
+    "href": "/responsive"
   }
 ]
 
